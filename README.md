@@ -110,7 +110,7 @@ The use of the term `n-1` is commonly referred to as Bessel's correction. Note, 
 ## Usage
 
 ```javascript
-import sstdevyc from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-sstdevyc@deno/mod.js';
+import sstdevyc from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-sstdevyc@v0.2.2-deno/mod.js';
 ```
 
 #### sstdevyc( N, correction, x, stride )
@@ -220,7 +220,7 @@ var v = sstdevyc.ndarray( N, 1, x, 2, 1 );
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
 import Float32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float32@deno/mod.js';
-import sstdevyc from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-sstdevyc@deno/mod.js';
+import sstdevyc from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-sstdevyc@v0.2.2-deno/mod.js';
 
 var x;
 var i;
