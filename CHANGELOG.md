@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-30)
+## Unreleased (2025-02-24)
+
+<section class="features">
+
+### Features
+
+-   [`194c6f9`](https://github.com/stdlib-js/stdlib/commit/194c6f9fa1bd55059e79d5cae7b9a8c8f3162ee4) - add C ndarray interface and refactor implementation for `stats/base/sstdevyc` [(#4874)](https://github.com/stdlib-js/stdlib/pull/4874)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`194c6f9`](https://github.com/stdlib-js/stdlib/commit/194c6f9fa1bd55059e79d5cae7b9a8c8f3162ee4) - **feat:** add C ndarray interface and refactor implementation for `stats/base/sstdevyc` [(#4874)](https://github.com/stdlib-js/stdlib/pull/4874) _(by Aayush Khanna)_
 -   [`51565a4`](https://github.com/stdlib-js/stdlib/commit/51565a4e5125fb8e7bf2a640e1bcb1f3647e50e3) - **refactor:** update `stats/base/sstdevyc` native addon from C++ to C [(#4208)](https://github.com/stdlib-js/stdlib/pull/4208) _(by Vinit Pandit, Athan Reines)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`9e689ff`](https://github.com/stdlib-js/stdlib/commit/9e689ffcb7c6223afc521f1e574b42f10921cf5e) - **chore:** fix indentation in manifest.json files _(by Philipp Burckhardt)_
@@ -28,8 +39,9 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Aayush Khanna
 -   Athan Reines
 -   Philipp Burckhardt
 -   Vinit Pandit
