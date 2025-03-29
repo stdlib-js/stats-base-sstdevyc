@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-10)
+## Unreleased (2025-03-29)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`438e57b`](https://github.com/stdlib-js/stdlib/commit/438e57b5e91d062a5c28897e408d8aa81b3de137) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`194c6f9`](https://github.com/stdlib-js/stdlib/commit/194c6f9fa1bd55059e79d5cae7b9a8c8f3162ee4) - **feat:** add C ndarray interface and refactor implementation for `stats/base/sstdevyc` [(#4874)](https://github.com/stdlib-js/stdlib/pull/4874) _(by Aayush Khanna)_
 -   [`51565a4`](https://github.com/stdlib-js/stdlib/commit/51565a4e5125fb8e7bf2a640e1bcb1f3647e50e3) - **refactor:** update `stats/base/sstdevyc` native addon from C++ to C [(#4208)](https://github.com/stdlib-js/stdlib/pull/4208) _(by Vinit Pandit, Athan Reines)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
